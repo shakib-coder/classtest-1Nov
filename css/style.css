@@ -1,0 +1,71 @@
+/*global css*/
+* {margin: 0px;
+   padding: 0px;
+}
+
+body {
+	background: url(../img/hill.jpg)no-repeat;
+	background-size: cover;
+
+
+}
+
+.container {
+	width: 1140px;
+	margin: 0 auto;
+	display: block;
+
+}
+
+.text-part {
+	width: 50%;
+	display: block;
+	float: left;
+}
+
+.text-part h1 {
+	color: #fff;
+}
+
+.text-part p {
+	color: #fff;
+}
+
+.register-part {
+	width: 50%;
+	float: left;
+	background-color: blue;
+}
+
+nav ul {
+	list-style: none;
+
+
+}
+
+.Form-control {
+width: 80%;
+height: 32px;
+padding: 5px 10px;
+margin-bottom: 15px;
+border: none;
+background-color: #fff;
+font: inherit;
+text-align: left;
+
+}
+
+.btnn {
+	background-color: blue;
+	color: #fff;
+	
+}
+
+
+
+
+
+
+
+
+
